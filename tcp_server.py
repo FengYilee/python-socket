@@ -2,7 +2,7 @@
 # -*- coding:utf-8 _*-  
 """ 
 @author:kevinlee 
-@file: demo02_server.py 
+@file: tcp_server.py 
 @time: 2018/02/09 
 """
 import socket, time, threading
